@@ -1,0 +1,1 @@
+# clipador-webcam-termux
