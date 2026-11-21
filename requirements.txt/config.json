@@ -1,0 +1,15 @@
+{
+      "largura_final": 1080,
+        "altura_final": 1920,
+          "altura_webcam_pct": 0.36,
+            "cam_x": 0.72,
+              "cam_y": 0.04,
+                "cam_w": 0.25,
+                  "cam_h": 0.25,
+                    "crf": 24,
+                      "preset": "ultrafast",
+                        "pasta_saida_local": "saida",
+                          "salvar_na_galeria_android": true
+                          }
+                          
+}
